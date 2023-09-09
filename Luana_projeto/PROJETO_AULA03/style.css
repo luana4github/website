@@ -14,3 +14,16 @@
 .imagemcapa{
     max-width: 100%;
 }
+
+.bordaprincipal{
+    
+}
+
+.botao{
+    background-color: darkgrey;
+    border: 2px solid black;
+    padding: 4px;
+}
+nav{
+    text-align: center;
+}
