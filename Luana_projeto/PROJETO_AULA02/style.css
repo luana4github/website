@@ -1,0 +1,42 @@
+body{
+    background-color: wheat;
+    margin-left: 120mm;
+    margin-right: 120mm;
+}
+
+h1{
+    text-align: center;
+    font-size: 90px;
+    color: sienna;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+    color: sienna;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
+
+.banner{
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+    background-color: burlywood;
+    border: 15px solid saddlebrown;
+    box-shadow: 10px 20px rgb(243, 186, 136);
+    margin-bottom: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: peru;
+}
+
+h1:hover{
+    color: oldlace;
+}
+
+.banner:hover{
+    background-color: sienna;
+    transition: 1s;
+    color: tan;
+}
